@@ -1,0 +1,7 @@
+/* Rabu 5 Februari 2025 */
+
+/* solusi dari paragraf ketimpa container fixed-top */
+body {
+    /* padding-top: calc(4rem + 1rem); Tinggi navbar (py-3 = 1rem tambahan) */
+    padding-top: 80px; /* Sesuaikan dengan tinggi navbar */
+}
