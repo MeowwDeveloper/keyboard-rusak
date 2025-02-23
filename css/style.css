@@ -4,7 +4,7 @@
 body {
     /* padding-top: calc(4rem + 1rem); Tinggi navbar (py-3 = 1rem tambahan) */
     padding-top: 80px; /* Sesuaikan dengan tinggi navbar */
-    background-color: lightgray;
+    background-color: rgb(227, 227, 227);
 }
 
 #Feature img{
