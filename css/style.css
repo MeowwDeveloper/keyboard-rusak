@@ -11,3 +11,13 @@ body {
     height: 300px;
     width: ;
 }
+
+.gambar-logo{
+    width: 180px;
+    margin: 10px;
+    border-radius: 14px;
+}
+
+.informasi{
+    height: 30rem;
+}
